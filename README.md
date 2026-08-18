@@ -88,9 +88,13 @@ These correlations show strong associations within this dataset; they do not imp
 
 ```Bash
 git clone https://github.com/maferlopezbarra/garmin-statistics
+
 cd garmin-statistics
+
 python -m venv .venv
+
 .venv\Scripts\activate
+
 pip install -r requirements.txt
 ```
 
